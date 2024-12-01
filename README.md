@@ -32,7 +32,7 @@
 
 ### Projects
 - [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
-- [Credit Ratings Predition Model]()
+- [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
 - [Baseball (MLB) Pitch Type Classification Model]()
 - [Ames, Iowa Home Prices Prediction Model]()
 - [Wine Quality Ratings Prediction Model]()
