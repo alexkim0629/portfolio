@@ -10,7 +10,7 @@
 - Enhanced complex computational models like embodied agents and reinforcement learning to be more accessible and easier to understand by improving documentation and interpretability for users
 - Improved runtime testing frameworks and conducted comprehensive code review
 
-**Natural Language Processing Undergraduate Researcher @ University of Illinios Urbana-Champaign)** (_August 2023 - December 2023_
+**Natural Language Processing Undergraduate Researcher @ University of Illinios Urbana-Champaign** (_August 2023 - December 2023_)
 
 _"Natural Language Processing to Assess and Improve Citation Integrity in Biomedical Publications"_
 - Curated datasets and assisted in developing natural language processing models to study citation behavior 
