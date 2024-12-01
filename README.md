@@ -4,6 +4,17 @@
 ## Programming Languages
  - Python, SQL, R, Java
 
+## Projects
+- [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
+- [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
+- [Baseball (MLB) Pitch Type Classification Model](https://github.com/alexkim0629/Projects/blob/main/pitch-classification.ipynb)
+- [Ames, Iowa Home Prices Prediction Model](https://github.com/alexkim0629/Projects/blob/main/ames-home.ipynb)
+- [Wine Quality Ratings Prediction Model](https://github.com/alexkim0629/Projects/blob/main/wine-quality.ipynb)
+- [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
+- [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
+- [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
+- Job Tracker Relational Database
+
 ## Research Experience
 **Open-source Computational Model Undergraduate Researcher @ University of Illinios Urbana-Champaign** (_August 2024 - Present_)
 - Developed predictive analytics model to optimize inventory and warehouse operations, focusing on product movement pattern and customer demand forecasting
@@ -17,17 +28,6 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 - Developed a sentence splitter algorithm for efficient data preprocessing and accurate extraction of citations
 - Processed datasets using machine learning techniques, performing data analysis to validate model accuracy
 - Evaluated and contributed to improving NLP models, applying metrics to assess effectiveness and refine outputs
-
-## Projects
-- [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
-- [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
-- [Baseball (MLB) Pitch Type Classification Model](https://github.com/alexkim0629/Projects/blob/main/pitch-classification.ipynb)
-- [Ames, Iowa Home Prices Prediction Model](https://github.com/alexkim0629/Projects/blob/main/ames-home.ipynb)
-- [Wine Quality Ratings Prediction Model](https://github.com/alexkim0629/Projects/blob/main/wine-quality.ipynb)
-- [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
-- [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
-- [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
-- Job Tracker Relational Database
 
 
 ## Work Experience 
