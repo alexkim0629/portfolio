@@ -10,7 +10,7 @@
 **Natural Language Processing Undergraduate Researcher @ University of Illinios Urbana-Champaign, School of Information Sciences (_August 2023 - December 2023_)**
 "Natural Language Processing to Assess and Improve Citation Integrity in Biomedical Publications"
 - Curated datasets and assisted in developing natural language processing models to study citation behavior 
-- Developed sentence splitting algorithms for efficient data preprocessing and accurate extraction of citations
+- Developed a sentence splitter algorithm for efficient data preprocessing and accurate extraction of citations
 - Processed datasets using machine learning techniques, performing data analysis to validate model accuracy
 - Evaluated and contributed to improving NLP models, applying metrics to assess effectiveness and refine outputs
 
@@ -31,6 +31,15 @@
 - Provided superior guest service to VIP customers in the luxury boutique by actively communicating, resulting in increased customer satisfaction
 
 ### Projects
+- [Using Weather Data to Predict Urbana Temperature & Weather]()
+- [Using Banking Customer Data to Predict Credit Ratings]()
+- [Using Baseball (MLB) Data to Classify Pitch Types]()
+- [Using Real Estate Data to Predict House Prices]()
+- [Using Wine Data to Create Wine Ratings]()
+- [Using Genomic (Gene Expression) Data to Detect Disease]()
+- [Using Financial Transaction Data to Detect Fraud]()
+- [Using Text (Airline Tweets) Data for Sentiment Analysis]()
+- 
 
 
 ### Programming Languages
