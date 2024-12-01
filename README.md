@@ -31,15 +31,14 @@
 - Provided superior guest service to VIP customers in the luxury boutique by actively communicating, resulting in increased customer satisfaction
 
 ### Projects
-- [Using Weather Data to Predict Urbana Temperature & Weather]()
-- [Using Banking Customer Data to Predict Credit Ratings]()
-- [Using Baseball (MLB) Data to Classify Pitch Types]()
-- [Using Real Estate Data to Predict House Prices]()
-- [Using Wine Data to Create Wine Ratings]()
-- [Using Genomic (Gene Expression) Data to Detect Disease]()
-- [Using Financial Transaction Data to Detect Fraud]()
-- [Using Text (Airline Tweets) Data for Sentiment Analysis]()
-- 
+- [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
+- [Credit Ratings Predition Model]()
+- [Baseball (MLB) Pitch Type Classification Model]()
+- [Ames, Iowa Home Prices Prediction Model]()
+- [Wine Quality Ratings Prediction Model]()
+- [Cancer Detection & Classification Model]()
+- [Credit Card Fraudulent Transaction Detection/Classification Model]()
+- [Airline Tweets Sentiment Classification Model]()
 
 
 ### Programming Languages
