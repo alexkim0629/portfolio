@@ -11,7 +11,8 @@ B.S. Information Science and Data Science | University of Illinios Urbana-Champa
 - Improved runtime testing frameworks and conducted comprehensive code review
 
 **Natural Language Processing Undergraduate Researcher @ University of Illinios Urbana-Champaign, School of Information Sciences (_August 2023 - December 2023_)**
-"Natural Language Processing to Assess and Improve Citation Integrity in Biomedical Publications"
+
+_"Natural Language Processing to Assess and Improve Citation Integrity in Biomedical Publications"_
 - Curated datasets and assisted in developing natural language processing models to study citation behavior 
 - Developed a sentence splitter algorithm for efficient data preprocessing and accurate extraction of citations
 - Processed datasets using machine learning techniques, performing data analysis to validate model accuracy
