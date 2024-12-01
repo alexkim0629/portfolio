@@ -27,6 +27,8 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 - [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
 - [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
 - [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
+- Job Tracker Relational Database
+
 
 ## Work Experience 
 **Sales Associate & Sales Analytics @ Nike** (_June 2023 - August 2024_)
