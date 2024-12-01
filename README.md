@@ -33,12 +33,12 @@
 ### Projects
 - [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
-- [Baseball (MLB) Pitch Type Classification Model]()
-- [Ames, Iowa Home Prices Prediction Model]()
-- [Wine Quality Ratings Prediction Model]()
-- [Cancer Detection & Classification Model]()
-- [Credit Card Fraudulent Transaction Detection/Classification Model]()
-- [Airline Tweets Sentiment Classification Model]()
+- [Baseball (MLB) Pitch Type Classification Model](https://github.com/alexkim0629/Projects/blob/main/pitch-classification.ipynb)
+- [Ames, Iowa Home Prices Prediction Model](https://github.com/alexkim0629/Projects/blob/main/ames-home.ipynb)
+- [Wine Quality Ratings Prediction Model](https://github.com/alexkim0629/Projects/blob/main/wine-quality.ipynb)
+- [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
+- [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
+- [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
 
 
 ### Programming Languages
