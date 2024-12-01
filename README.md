@@ -1,5 +1,5 @@
 ### Education
--  B.S. Information Science and Data Science | University of Illinios Urbana-Champaign (_August 2022 - Present_)
+B.S. Information Science and Data Science | University of Illinios Urbana-Champaign (_August 2022 - Present_)
 
 ### Programming Languages
  - Python, SQL, R, Java
