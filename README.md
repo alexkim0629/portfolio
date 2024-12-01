@@ -31,3 +31,7 @@
 - Provided superior guest service to VIP customers in the luxury boutique by actively communicating, resulting in increased customer satisfaction
 
 ### Projects
+
+
+### Programming Languages
+ - Python, SQL, R, Java
