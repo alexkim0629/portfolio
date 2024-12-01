@@ -44,4 +44,11 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 - Translated and assisted customers in English and Korean, enhancing their shopping experience
 - Provided superior guest service to VIP customers in the luxury boutique by actively communicating, resulting in increased customer satisfaction
 
+### Interests/Hobby
+- Basketball
+- Football
+- Lifting
+- Cars
+- Movies
+
 
