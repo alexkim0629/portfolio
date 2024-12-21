@@ -13,8 +13,8 @@
 - [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
 - [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
 - [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
-- [MLB Swing Probability Estimation Model]
-- [Fashion Clothing Image Classification Model]
+- MLB Swing Probability Estimation Model
+- Fashion Clothing Image Classification Model
 - Job Tracker Relational Database
 
 ## Research Experience
