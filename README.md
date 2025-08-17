@@ -1,8 +1,8 @@
 ## Education
-**B.S., Information Science and Data Science | University of Illinois Urbana-Champaign** (_August 2022 - Present_)
+**B.S., Information Science and Data Science | University of Illinois Urbana-Champaign** (_August 2022 - May 2025_)
 
 ## Programming Languages
- - Python, SQL, R, Java
+ - Java, Python, Go, SQL, R
 
 ## Projects
 - [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
