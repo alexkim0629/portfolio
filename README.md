@@ -6,6 +6,21 @@
 ## Programming Languages
  - Java, Python, Go, SQL, R
 
+## Work Experience 
+**Software Engineer @ Raft** | Mclean, VA (_June 2025 - August 2025_) 
+- Developed backend features for SOF Data Layer (SDL) using Java, Spring Boot, and REST API, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
+- Reduced Kubernetes resource usage and improved maintainability by eliminating redundant processes in SDL backend
+- Resolved critical authentication issues in Dataset Discovery Service by migrating through API Gateway, enabling flexible
+deployments and ensuring SOCOM PI demo success
+
+**Sales Analyst @ Nike** | Seoul, South Korea (_June 2023 - August 2023_) 
+- Analyzed daily sales rate and profits using **Microsoft Excel** and **Power BI**, creating dashboards to provide actionable
+insights that improved sales strategies
+- Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and
+significantly boosting operational efficiency
+- Communicated and cooperated with the team to enhance the Nike experience, boosting customer satisfaction
+
+
 ## Projects
 - [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
@@ -18,6 +33,7 @@
 - MLB Swing Probability Estimation Model
 - Fashion Clothing Image Classification Model
 - Job Tracker Relational Database
+
 
 ## Research Experience
 **Open-source Computational Model Undergraduate Researcher @ University of Illinois Urbana-Champaign** (_August 2024 - Present_)
@@ -32,21 +48,6 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 - Developed a sentence splitter algorithm for efficient data preprocessing and accurate extraction of citations
 - Processed datasets using machine learning techniques, performing data analysis to validate model accuracy
 - Evaluated and contributed to improving NLP models, applying metrics to assess effectiveness and refine outputs
-
-
-## Work Experience 
-**Software Engineer @ Raft** | Mclean, VA (_June 2025 - August 2025_) 
-- Developed backend features for SOF Data Layer (SDL) using Java, Spring Boot, and REST API, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
-- Reduced Kubernetes resource usage and improved maintainability by eliminating redundant processes in SDL backend
-- Resolved critical authentication issues in Dataset Discovery Service by migrating through API Gateway, enabling flexible
-deployments and ensuring SOCOM PI demo success
-
-**Sales Analyst @ Nike** | Seoul, South Korea (_June 2023 - August 2023_) 
-- Analyzed daily sales rate and profits using **Microsoft Excel** and **Power BI**, creating dashboards to provide actionable
-insights that improved sales strategies
-- Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and
-significantly boosting operational efficiency
-- Communicated and cooperated with the team to enhance the Nike experience, boosting customer satisfaction
 
 
 ## Interests/Hobby
