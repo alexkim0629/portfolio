@@ -1,5 +1,6 @@
 ## Education
 **M.S., Data Science | University of Pennsylvania** (_August 2025 - Present_)
+
 **B.S., Information Science and Data Science | University of Illinois Urbana-Champaign** (_August 2022 - May 2025_)
 
 ## Programming Languages
@@ -34,26 +35,26 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 
 
 ## Work Experience 
-**Sales Associate & Sales Analytics @ Nike** (_June 2023 - August 2024_)
-- Communicated and cooperated with team members using professional skills to enhance the Nike experience, resulting in improved customer satisfaction
-- Analyzed daily sales rate and profits using Microsoft Excel, leading to more informed decision-making and improved sales strategies
-- Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and significantly boosting operational efficiency
-- Tailored products to customer needs by actively communicating with them, resulting in increased customer satisfaction
+**Software Engineer @ Raft** (_June 2025 - August 2025_) | Mclean, VA
+- Developed backend features for SOF Data Layer (SDL) using Java, Spring Boot, and REST API, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
+- Reduced Kubernetes resource usage and improved maintainability by eliminating redundant processes in SDL backend
+- Resolved critical authentication issues in Dataset Discovery Service by migrating through API Gateway, enabling flexible
+deployments and ensuring SOCOM PI demo success
 
-**Food Services & Marketing Associate @ Good Stuff Eatery** (_June 2022 - July 2022_)
-- Operated cash register for various transactions with 100% accuracy, ensuring efficient customer service
-- Developed new entrees and appetizers through active communication and feedback with cuisine chefs
-- Contributed to the advertisement of the store through social media and networking
+**Sales Analyst @ Nike** (_June 2023 - August 2023_) | Seoul, South Korea
+- Analyzed daily sales rate and profits using **Microsoft Excel** and **Power BI**, creating dashboards to provide actionable
+insights that improved sales strategies
+- Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and
+significantly boosting operational efficiency
+- Communicated and cooperated with the team to enhance the Nike experience, boosting customer satisfaction
 
-**VIP Customer Service Associate @ Louis Vuitton Maison** (_May 2022 - June 2022_)
-- Translated and assisted customers in English and Korean, enhancing their shopping experience
-- Provided superior guest service to VIP customers in the luxury boutique by actively communicating, resulting in increased customer satisfaction
 
 ## Interests/Hobby
 - Basketball
 - Football
 - Lifting
-- Cars
 - Movies
+- Cars
+- Video Games
 
 
