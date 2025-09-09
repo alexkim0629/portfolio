@@ -12,7 +12,7 @@
 - Resolved critical authentication issues in Dataset Discovery Service by migrating through **API Gateway**, enabling flexible
 deployments and ensuring SOCOM PI demo success
 
-**Sales Analyst @ Nike**  | Seoul, South Korea | _June 2023 - August 2023_ 
+**Sales Data Analyst @ Nike**  | Seoul, South Korea | _June 2023 - August 2023_ 
 - Analyzed daily sales rate and profits using **Microsoft Excel** and **Power BI**, creating dashboards to provide actionable
 insights that improved sales strategies
 - Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and
@@ -21,17 +21,18 @@ significantly boosting operational efficiency
 
 
 ## Projects
-- [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
+- MLB Player Career Trajectories Explorer in R
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
+- [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
 - [Baseball (MLB) Pitch Type Classification Model](https://github.com/alexkim0629/Projects/blob/main/pitch-classification.ipynb)
+- [Urbana Weather Prediction Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/urbana-weather.ipynb)
 - [Ames, Iowa Home Prices Prediction Model](https://github.com/alexkim0629/Projects/blob/main/ames-home.ipynb)
 - [Wine Quality Ratings Prediction Model](https://github.com/alexkim0629/Projects/blob/main/wine-quality.ipynb)
 - [Cancer Detection & Classification Model](https://github.com/alexkim0629/Projects/blob/main/gene-expression.ipynb)
-- [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
 - [Airline Tweets Sentiment Classification Model](https://github.com/alexkim0629/Projects/blob/main/airline-sentiment.ipynb)
 - MLB Swing Probability Estimation Model
 - Fashion Clothing Image Classification Model
-- Job Tracker Relational Database
+- Job Tracker Relational Database in SQL
 
 
 ## Research Experience
