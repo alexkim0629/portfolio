@@ -21,7 +21,7 @@ significantly boosting operational efficiency
 
 
 ## Projects
-- MLB Player Career Trajectories Explorer in R
+- [MLB Player Career Trajectories Explorer in R](https://github.com/alexkim0629/Projects/blob/main/mlb_career_app.R)
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
 - [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
 - [Baseball (MLB) Pitch Type Classification Model](https://github.com/alexkim0629/Projects/blob/main/pitch-classification.ipynb)
