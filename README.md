@@ -7,7 +7,7 @@
 
 ## Work Experience 
 **Software Engineer @ Raft**  | Mclean, VA | _June 2025 - August 2025_
-- Developed backend features for SOF Data Layer (SDL) using **Java**, **Spring Boot**, and **REST API**, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
+- Developed backend features for SOF (Special Operations Force) Data Layer (SDL) using **Java**, **Spring Boot**, and **REST API**, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
 - Reduced **Kubernetes** resource usage and improved maintainability by eliminating redundant processes in SDL backend
 - Resolved critical authentication issues in Dataset Discovery Service by migrating through **API Gateway**, enabling flexible
 deployments and ensuring SOCOM PI demo success
