@@ -3,7 +3,7 @@
 **B.S., Information Science and Data Science | University of Illinois Urbana-Champaign** (_August 2022 - May 2025_)
 
 ## Programming Languages
- - Java, Python, Go, SQL, R
+ - Java, Python, SQL, R
 
 ## Work Experience 
 **Software Engineer @ Raft**  | Mclean, VA | _June 2025 - August 2025_
