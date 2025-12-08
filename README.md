@@ -51,8 +51,7 @@ _"Natural Language Processing to Assess and Improve Citation Integrity in Biomed
 
 
 ## Interests/Hobby
-- Basketball
-- Football
+- Sports Analytics
 - Lifting
 - Movies
 - Cars
