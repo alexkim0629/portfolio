@@ -1,6 +1,6 @@
 ## Education
-**M.S.E., Data Science | University of Pennsylvania**  _August 2025 - Present_ \
-**B.S., Information Science and Data Science | University of Illinois Urbana-Champaign**  _August 2022 - May 2025_
+**M.S.E., Data Science | University of Pennsylvania |**  _August 2025 - Present_ \
+**B.S., Information Science and Data Science | University of Illinois Urbana-Champaign |**  _August 2022 - May 2025_
 
 ## Programming Languages
  - Python, Java, SQL, R
