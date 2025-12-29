@@ -6,6 +6,11 @@
  - Python, Java, SQL, R
 
 ## Work Experience 
+**Senior Analyst @ Wharton Sports Analytics and Business Initiative (WSABI)**  | Philadelphia, PA | _December 2025 - Present_
+- Partnered with Cleveland Browns medical, performance, and analytics staff to support player evaluation using secure data
+- Streamlined injury data collection, automate grading, and quantify time-loss to build player health and performance profiles
+- Developed analytical methods to identify and compare similar NFL player profiles for evaluation and decision-making
+
 **Software Engineer @ Raft**  | Mclean, VA | _June 2025 - August 2025_
 - Developed backend features for SOF (Special Operations Force) Data Layer (SDL) using **Java**, **Spring Boot**, and **REST API**, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
 - Reduced **Kubernetes** resource usage and improved maintainability by eliminating redundant processes in SDL backend
