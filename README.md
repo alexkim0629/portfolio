@@ -12,7 +12,7 @@
 - Developed analytical methods to identify and compare similar NFL player profiles for evaluation and decision-making
 
 **Software Engineer @ Raft**  | Mclean, VA | _June 2025 - August 2025_
-- Developed backend features for SOF (Special Operations Force) Data Layer (SDL) using **Java**, **Spring Boot**, and **REST API**, and increased catalog-api test coverage to over 80% to meet the Gravity ATO system compliance requirements
+- Developed backend features for SOF (Special Operations Force) Data Layer (SDL) using **Java**, **Spring Boot**, and **REST API**, and increased catalog-api test coverage to **80%+** to meet the Gravity ATO system compliance
 - Reduced **Kubernetes** resource usage and improved maintainability by eliminating redundant processes in SDL backend
 - Resolved critical authentication issues in Dataset Discovery Service by migrating through **API Gateway**, enabling flexible
 deployments and ensuring SOCOM PI demo success
@@ -21,7 +21,7 @@ deployments and ensuring SOCOM PI demo success
 - Analyzed daily sales rate and profits using **Microsoft Excel** and **Power BI**, creating dashboards to provide actionable
 insights that improved sales strategies
 - Improved inventory and organization system in the stockroom, enhancing item accessibility for Nike athletes and
-significantly boosting operational efficiency
+significantly boosting operational efficiency by **25%**
 - Communicated and cooperated with the team to enhance the Nike experience, boosting customer satisfaction
 
 
