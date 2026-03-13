@@ -26,6 +26,7 @@ significantly boosting operational efficiency by **25%**
 
 
 ## Projects
+- [Evaluation of state-of-art Weather Models](https://github.com/alexkim0629/WeatherForecastModels)
 - [MLB Player Career Trajectories Explorer in R](https://github.com/alexkim0629/Projects/blob/main/mlb_career_app.R)
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
 - [Credit Card Fraudulent Transaction Detection/Classification Model](https://github.com/alexkim0629/Projects/blob/main/credit-fraud.ipynb)
