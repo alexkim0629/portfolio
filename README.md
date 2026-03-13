@@ -26,7 +26,8 @@ significantly boosting operational efficiency by **25%**
 
 
 ## Projects
-- Global Trade Explorer: Interactive Analysis of Trade Flows and Economic Development 
+- Global Trade Explorer: Interactive Analysis of Trade Flows and Economic Development
+- Predicting NFL Injury Risk from College Game Availability
 - [Evaluation of State-of-the-Art Medium Range Global Weather Models: GraphCast and FourCastNet](https://github.com/alexkim0629/WeatherForecastModels)
 - [MLB Player Career Trajectories Explorer in R](https://github.com/alexkim0629/Projects/blob/main/mlb_career_app.R)
 - [Credit Ratings Predition Model](https://github.com/alexkim0629/UrbanaWeather/blob/main/credit-rating.ipynb)
