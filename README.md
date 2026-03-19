@@ -28,7 +28,7 @@ significantly boosting operational efficiency by **25%**
 ## Projects
 - Global Trade Explorer: Interactive Analysis of Trade Flows and Economic Development
 - Predicting NFL Injury Risk from College Game Availability
-- [Dominoes AI Model](https://github.com/alexkim0629/Projects/tree/134e5cfe6e5981ab2a2cd7be4a32ed2c0aae5eb2/AI%20Models/Dominoes)
+- [Dominoes Game AI Model](https://github.com/alexkim0629/Projects/tree/134e5cfe6e5981ab2a2cd7be4a32ed2c0aae5eb2/AI%20Models/Dominoes)
 - [Informed Search Game Models](https://github.com/alexkim0629/Projects/tree/134e5cfe6e5981ab2a2cd7be4a32ed2c0aae5eb2/AI%20Models/Informed%20Search%20Game%20Models)
 - [Evaluation of State-of-the-Art Medium Range Global Weather Models: GraphCast and FourCastNet](https://github.com/alexkim0629/WeatherForecastModels)
 - [MLB Player Career Trajectories Explorer in R](https://github.com/alexkim0629/Projects/blob/main/mlb_career_app.R)
