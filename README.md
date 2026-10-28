@@ -1,12 +1,18 @@
 ## Education
-**M.S.E., Data Science | University of Pennsylvania |**  _August 2025 - Present_ \
+**M.S.E., Data Science | University of Pennsylvania |**  _August 2025 - Aug 2026_ \
 **B.S., Information Science and Data Science | University of Illinois Urbana-Champaign |**  _August 2022 - May 2025_
 
 ## Programming Languages
  - Python, Java, SQL, R
 
 ## Work Experience 
-**Senior Analyst @ Wharton Sports Analytics and Business Initiative (WSABI)**  | Philadelphia, PA | _December 2025 - Present_
+
+**Data Engineer @ John Deere** | Moline, IL | _July 2026 - Present_
+- Migrated a customer-facing reporting solution from Power BI to a scalable Python/HTML reporting pipeline, automating report generation and delivery
+- Built and enhanced scalable datasets and features within the Construction & Forestry Lead Generation Ecosystem to improve lead identification and support targeted sales opportunities
+- Leveraged product configuration and take-rate analytics to identify cost saving opportunities and recommend product option removal and standardization 
+
+**Senior Analyst @ Wharton Sports Analytics and Business Initiative (WSABI)**  | Philadelphia, PA | _December 2025 - May 2026_
 - Partnered with Cleveland Browns medical, performance, and analytics staff to support player evaluation using secure data
 - Streamlined injury data collection, automate grading, and quantify time-loss to build player health and performance profiles
 - Developed analytical methods to identify and compare similar NFL player profiles for evaluation and decision-making
